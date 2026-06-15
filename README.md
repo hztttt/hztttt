@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @hztttt (Huang Zhengtao)
-- 🔬 Computational materials scientist working on machine-learning interatomic potentials and spin–lattice dynamics
+- 🌱 PhD student in computational materials science, working on machine-learning interatomic potentials and spin–lattice dynamics
 - ⚛️ I build and apply ML potentials (DeepSPIN / DeePMD) for magnetic materials, coupling spin and lattice degrees of freedom
 - 🖥️ Toolbox: LAMMPS, molecular dynamics, free-energy & phase-diagram methods (thermodynamic integration), Python
 - 📈 Interested in how magnetic order couples to defects, phase transitions, and thermodynamics in Fe-based alloys
