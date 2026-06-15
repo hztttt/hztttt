@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @hztttt
+- 👀 I'm interested in Machine Learning applied to Materials Science
+- 🔬 I'm working with LAMMPS, molecular dynamics, and spin/lattice simulations
+- 🌱 I'm currently learning ML and scientific computing
+- 💞️ I'm looking to collaborate on computational materials science and molecular simulation
+- 📫 How to reach me [hzt990224@gmail.com](mailto:hzt990224@gmail.com)
